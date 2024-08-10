@@ -12,6 +12,20 @@ Extracts and transforms data, develops a star-based data model, and constructs a
 
 Milestone 1: Loaded data onto Power BI and prepared it. Cleaned and organised data through splitting columns, removing blank rows, merging columns, removing irrelevant columns and renaming columns.
 
+Milestone 2: Created Data Model
+1.	Created Date table: 
+Date = 
+CALENDAR(
+    DATE(YEAR(MIN(Orders[Order Date])), 1, 1),
+    DATE(YEAR(MAX(Orders[Shipping Date])), 12, 31)
+)
+2.	Added all relevant date elements such as day of week, year and start of quarter using Power BI DAX formulas.
+3.	Created relationships between the tables to form a star schema.
+4.	Created Measures table to contain all relevant measures.
+5.	Created initial measures such as Total Orders, Total Revenue, and Total Quantity with DAX formulas. These measures will be used later in the report.
+6.	Created date and geography hierarchies through a combination of calculated columns and ordering different elements into a hierarchical structure.
+
+
   
 # Future Learning
 
