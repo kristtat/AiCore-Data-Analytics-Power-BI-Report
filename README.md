@@ -10,7 +10,8 @@ Extracts and transforms data, develops a star-based data model, and constructs a
 
 # Learning points
 
-### Milestone 1: Loaded data onto Power BI and prepared it. Cleaned and organised data through splitting columns, removing blank rows, merging columns, removing irrelevant columns and renaming columns.
+### Milestone 1
+Loaded data onto Power BI and prepared it. Cleaned and organised data through splitting columns, removing blank rows, merging columns, removing irrelevant columns and renaming columns.
 
 ### Milestone 2: Created Data Model
 1.	Created Date table: 
@@ -37,13 +38,14 @@ CALENDAR(
 7.	Created date slicer to enable user to filter page by year.
 
 ### Milestone 6: Created executive summary page
-1.	Created cards for Revenue, Total Orders and Total Profit measures
-2.	Created Revenue Trending line chart with Start of Year, Start of Quarter and Start of Month
-3.	Created Donut Charts for Revenue per Country and Revenue per Store Type
-4.	Created a Bar Chart of Orders by Product Category
-5.	Added new measures for Previous Quarter Profit, Previous Quarter Revenue, Previous Quarter Orders and measures for 5% targets compared to previous quarter
-6.	Created KPIs for the above
-Additional element not included in project task:
+1.	Created cards for Revenue, Total Orders and Total Profit measures.
+2.	Created Revenue Trending line chart with Start of Year, Start of Quarter and Start of Month.
+3.	Created Donut Charts for Revenue per Country and Revenue per Store Type.
+4.	Created a Bar Chart of Orders by Product Category.
+5.	Added new measures for Previous Quarter Profit, Previous Quarter Revenue, Previous Quarter Orders and measures for 5% targets compared to previous quarter.
+6.	Created KPIs for the above.
+
+### Additional element not included in project task:
 •	Formatted measures for starts of week, month, quarter and year to not include time.
 •	Customer page: Cards for Total Customers by Country Code and Total Customers by Category
   
