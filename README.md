@@ -10,9 +10,9 @@ Extracts and transforms data, develops a star-based data model, and constructs a
 
 # Learning points
 
-Milestone 1: Loaded data onto Power BI and prepared it. Cleaned and organised data through splitting columns, removing blank rows, merging columns, removing irrelevant columns and renaming columns.
+### Milestone 1: Loaded data onto Power BI and prepared it. Cleaned and organised data through splitting columns, removing blank rows, merging columns, removing irrelevant columns and renaming columns.
 
-Milestone 2: Created Data Model
+### Milestone 2: Created Data Model
 1.	Created Date table: 
 Date = 
 CALENDAR(
@@ -25,9 +25,9 @@ CALENDAR(
 5.	Created initial measures such as Total Orders, Total Revenue, and Total Quantity with DAX formulas. These measures will be used later in the report.
 6.	Created date and geography hierarchies through a combination of calculated columns and ordering different elements into a hierarchical structure.
 
-Milestone 4: Creates report pages and adds a navigation sidebar.
+### Milestone 4: Creates report pages and adds a navigation sidebar.
 
-Milestone 5: Builds Customer Detail page
+### Milestone 5: Builds Customer Detail page
 1.	Created background rectangles for card visuals.
 2.	Created cards for unique customers and revenue per customer.
 3.	Created a line chart for customers trending with a trend line and forecasting.
@@ -36,6 +36,16 @@ Milestone 5: Builds Customer Detail page
 6.	Created cards to display above measures.
 7.	Created date slicer to enable user to filter page by year.
 
+### Milestone 6: Created executive summary page
+1.	Created cards for Revenue, Total Orders and Total Profit measures
+2.	Created Revenue Trending line chart with Start of Year, Start of Quarter and Start of Month
+3.	Created Donut Charts for Revenue per Country and Revenue per Store Type
+4.	Created a Bar Chart of Orders by Product Category
+5.	Added new measures for Previous Quarter Profit, Previous Quarter Revenue, Previous Quarter Orders and measures for 5% targets compared to previous quarter
+6.	Created KPIs for the above
+Additional element not included in project task:
+•	Formatted measures for starts of week, month, quarter and year to not include time.
+•	Customer page: Cards for Total Customers by Country Code and Total Customers by Category
   
 # Future Learning
 
