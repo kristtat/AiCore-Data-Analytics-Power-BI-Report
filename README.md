@@ -25,6 +25,16 @@ CALENDAR(
 5.	Created initial measures such as Total Orders, Total Revenue, and Total Quantity with DAX formulas. These measures will be used later in the report.
 6.	Created date and geography hierarchies through a combination of calculated columns and ordering different elements into a hierarchical structure.
 
+Milestone 4: Creates report pages and adds a navigation sidebar.
+
+Milestone 5: Builds Customer Detail page
+1.	Created background rectangles for card visuals.
+2.	Created cards for unique customers and revenue per customer.
+3.	Created a line chart for customers trending with a trend line and forecasting.
+4.	Created table for top 20 customers arranged by total revenue and listing number of orders.
+5.	Created measures for top customer, their number of orders and total revenue.
+6.	Created cards to display above measures.
+7.	Created date slicer to enable user to filter page by year.
 
   
 # Future Learning
@@ -36,6 +46,8 @@ Install Microsoft Power BI if using Windows. Install VM and then Microsoft Power
 
 # Use instructions
 
+# To do
+Order count for top customer does not work. Fix.
 
 # File structure of the project
 
